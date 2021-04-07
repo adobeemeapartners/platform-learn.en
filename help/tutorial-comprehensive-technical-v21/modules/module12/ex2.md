@@ -83,7 +83,7 @@ Go back to **Journey Orchestration**, to your empty **External Data Source** pop
 
 ![Demo](./images/emptyds.png)
 
-As a Name for the Data Source, use `joconnorWeatherApi` and replace `Ldap` with your LDAP. In this example, the Data Source Name is `weatherApiVangeluw`.
+As a Name for the Data Source, use `joconnorWeatherApi` and replace `Ldap` with your LDAP. In this example, the Data Source Name is `vangeluwWeatherApi`.
 
 Set Description to: `Access to the Open Weather Map`.
 
